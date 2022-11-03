@@ -1,0 +1,1 @@
+isSubtree = (x,s,z=JSON.stringify(x).indexOf(JSON.stringify(s))) => z!==-1
